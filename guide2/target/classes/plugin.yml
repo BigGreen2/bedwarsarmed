@@ -1,0 +1,7 @@
+name: test3
+version: '1.0-SNAPSHOT'
+main: green.bruh.Bruh
+api-version: 1.18
+
+commands:
+  guide:

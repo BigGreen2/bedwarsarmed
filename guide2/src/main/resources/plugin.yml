@@ -1,0 +1,7 @@
+name: test3
+version: '${project.version}'
+main: green.bruh.Bruh
+api-version: 1.18
+
+commands:
+  guide:
